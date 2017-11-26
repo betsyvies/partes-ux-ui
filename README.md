@@ -22,12 +22,6 @@
     - Tener subtitulos en algunos videos.
     - Permitirme mover los subtitulos donde mejor me parezca y así tener mayor comodidad.
 
-### Imagen de referencia
-
-![Partes que conforman el UX](assets/images/ux.png)
-
-![Partes que conforman el UX](assets/images/ux1.png)
-
 ## Partes UI
 
 - Las partes que conforman el UI, tienen que ver con los componentes necesarios y requeridos por los usuarios, por ejemplo:
@@ -40,6 +34,15 @@
     - La forma, tamaño y colores de los covers de los videos.
     - El Cambiar de color de los iconos segun donde estemos ubicados.
 
-### Imagen de referencia
+## Imagenes de referencia
 
-![UI](assets/images/trello.png)
+![Partes que conforman el UX y UI](assets/images/ux1.png)
+
+![Partes que conforman el UX y UI](assets/images/ux2.png)
+
+![Partes que conforman el UX y UI](assets/images/ux3.png)
+
+![Partes que conforman el UX y UI](assets/images/ux4.png)
+
+![Partes que conforman el UX y UI](assets/images/ux5.png)
+
